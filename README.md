@@ -2,7 +2,7 @@
 
 My name is Ammar Haikal, I am a Final Year Software Engineer Bachelor Degree Student in UniKL MIIT. 
 
-- 🔭 I’m currently working on a my Final Year Project System called FreshKeep, Fresh Produce Management System for Malaysian Households using Flutter.
+- 🔭 I’m currently working on my Final Year Project System called FreshKeep, Fresh Produce Management System for Malaysian Households using Flutter.
 - 🌱 I’m currently learning AI programming using Python.
 - 📫 How to reach me: Email: ammarhaikalkamarudin@gmail.comn
 
