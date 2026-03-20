@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ammar Haikal, I am a final Year Software Engineer Bachelor Student in UniKL MIIT. 
+My name is Ammar Haikal, I am a Final Year Software Engineer Bachelor Degree Student in UniKL MIIT. 
 
 - 🔭 I’m currently working on a my Final Year Project System called FreshKeep: Fresh Produce Management System for Mala using Flutter.
 - 🌱 I’m currently learning AI programming using Python.
